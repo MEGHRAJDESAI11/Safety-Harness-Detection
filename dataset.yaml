@@ -1,0 +1,4 @@
+train: /Users/meghrajdesai11/Desktop/SafetyHarnessModel/Annote/YOLODataset/images/train/
+val: /Users/meghrajdesai11/Desktop/SafetyHarnessModel/Annote/YOLODataset/images/val/
+nc: 3
+names: ["harness_with_hook", "harness_without_hook", "noharness"]
